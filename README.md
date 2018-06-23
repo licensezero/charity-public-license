@@ -1,21 +1,15 @@
-# The Parity Public License
+# The Charity Public License
 
-Parity is a public `LICENSE` for open software that requires users who build with your software to share their work with the community, too.  In other words, Parity makes your work free for open source, like GitHub, Travis CI, and other current-generation services.
+Charity is a public `LICENSE` for open software that brings the approach of MIT and BSD licenses into the twenty-first century.  Parity makes your software free to use by almost anyone.
 
-## Why?
-
-You might choose Parity because you're a [pragmatic idealist](https://www.gnu.org/philosophy/pragmatic.en.html) looking for a copyleft license that's evolved with the times.
-
-You might choose Parity because you're realistic about the need for financial support for your work, and want to [sell licenses to users who won't give back in kind](https://guide.licensezero.com).
-
-You might choose Parity because it's particularly important to make sure your users can understand your license.
+Charity is based on [The Parity Public License](https://github.com/licensezero/parity-public-license), which shares many of the same terms.  Charity is a "free for everybody" license.  Parity is a "free for open source" license.
 
 ## Comparing
 
-Parity improves on previous strong-copyleft licenses in several ways.
+Charity improves on previous permissive licenses in several ways.
 
-1.  Parity makes an effective share-alike deal with users of your software, whether your software happens to be a library, a developer tool, or a complete application.  The ASP, private-changes, and developer-tools loopholes in licenses like GPL and AGPL have all been closed.
+1.  Charity is written to be read, in plain language, with a simple "here's your permission, and here are the rules" structure.  The whole license fits on 26 lines of 65 columns.
 
-2.  Parity is written to be read, in plain language, with a simple "here's your permission, and here are the rules" structure.  The whole text of the license fits on a single piece of paper, with lots of room to spare.
+2.  Charity gives explicit patent permission, with a patent-termination clause, like Apache 2.0, but without its wordiness.
 
-Like other share-alike licenses, Parity differs from MIT, BSD, Apache 2.0, and other pure-permissive licenses by requiring users to share software back to the community.
+3.  Charity helps others find your source code and contribute back, by requiring that users keep a notice about where to find source, in addition to your copyright notice.
