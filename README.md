@@ -13,3 +13,11 @@ Charity improves on previous permissive licenses in several ways.
 2.  Charity gives explicit patent permission, with a patent-termination clause, like Apache 2.0, but without its wordiness.
 
 3.  Charity helps others find your source code and contribute back, by requiring that users keep a notice about where to find source, in addition to your copyright notice.
+
+## Family
+
+Charity is one member of a family of licenses published by [Artless Devices LLC](https://artlessdevices.com) for [licensezero.com](https://licensezero.com):
+
+- [Parity](https://github.com/licensezero/parity-public-license), a strong reciprocal license
+- [Charity](https://github.com/licensezero/charity-public-license), a permissive license
+- [Prosperity](https://github.com/licensezero/prosperity-public-license), a noncommercial license
